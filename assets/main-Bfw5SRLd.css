@@ -160,9 +160,6 @@ a {
     text-decoration: none
 }
 
-li {
-    list-style: none
-}
 
 sup {
     font: 450 min(.65em, var(--font-0))/var(--lh) var(--ff-p)
@@ -202,7 +199,7 @@ sup {
 }
 
 .text\:limit {
-    max-inline-size: 45ch
+    max-inline-size: 66ch
 }
 
 .huge {
@@ -390,6 +387,10 @@ a[class*=nav-link]:hover:before {
     grid-template-columns:repeat(2, 1fr)
 }
 
+.grid\:3 {
+    grid-template-columns:repeat(3, 1fr)
+}
+
 .grid\:5 {
     grid-template-columns:repeat(5, 1fr)
 }
@@ -426,10 +427,29 @@ a[class*=nav-link]:hover:before {
     gap: var(--space-3)
 }
 
-[class*=frame] {
+[class*=frame-1] {
     --ratio: ;
     aspect-ratio: var(--ratio);
+    position: relative;
+    place-items: center;
+    align-items: center;
+    justify-items: center;
+    place-content: center;
+    padding: var(--space-0);
     display: grid;
+    overflow: hidden
+}
+[class*=frame-2] {
+    --ratio: ;
+    aspect-ratio: var(--ratio);
+    position:absolute;
+    width: 300px;
+    place-items: baseline;
+    align-items: baseline;
+    justify-items:  flex-start;
+    place-content: inherit;
+    padding: var(--space-2);
+    display: flex;
     overflow: hidden
 }
 
@@ -934,3 +954,23 @@ footer {
         display: none
     }
 }
+
+.bullets {
+    list-style-type: circle;
+    list-style-position: inside;
+    padding-left: 16px;
+    color: #373737;
+    font-weight: 400;
+    font-size: 1rem;
+    font-style: italic;
+    line-height: 1.5;
+    pointer-events: visible;
+}
+
+.title {
+    font-weight: 200;
+    font-size: var(--font-s1);
+    color: #006fff;
+    text-transform: uppercase;
+}
+

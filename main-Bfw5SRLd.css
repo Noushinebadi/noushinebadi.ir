@@ -939,3 +939,23 @@ footer {
         display: none
     }
 }
+
+@media (scripting: none) {
+    [data-gsap=fadeout] {
+        opacity: 0;
+        transform: translateY(60px)
+    }
+
+    [data-gsap=collapse] {
+        transform: scale(.9)
+    }
+}
+@media (scripting: none) {
+    [data-gsap=slidein], [data-gsap=fadein], [data-gsap=expand] {
+        transition: all .5s ease-in-out
+    }
+
+    [data-gsap=slideout], [data-gsap=fadeout], [data-gsap=collapse] {
+        transition: all .5s ease-in-out
+    }
+}

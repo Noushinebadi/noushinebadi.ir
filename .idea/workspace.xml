@@ -4,7 +4,48 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="237e789a-9cdf-4a30-ab31-f70557993e3c" name="Changes" comment="" />
+    <list default="true" id="237e789a-9cdf-4a30-ab31-f70557993e3c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/assets/Bottun.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Goldun.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/Homepage.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/P29.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/b-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/b-10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/b-2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/b-3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/b-4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/b-5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/b-6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/b-7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/b-8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/b-9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bakery-1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bakery-main.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bakery-p1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bakery-p2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bakery-p3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bakery-p4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/bakery-p5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/d5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/freelance.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/goldun-home.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/noosh.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p30.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project/bakery/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ENHairline-Y4eDRFiU.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/ENHairlineItalic-C3YCJVCN.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/GeistVariableVF-CIK_iAAG.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/logo-ne.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/logo-ne.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/main-Bfw5SRLd.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/main-Bfw5SRLd.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/p1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/p1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main-Bfw5SRLd.css" beforeDir="false" afterPath="$PROJECT_DIR$/main-Bfw5SRLd.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/anemoia/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,24 +55,25 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Noushinebadi"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Noushinebadi&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/Noushinebadi/portfolio",
-    "accountId": "290de914-98fc-4bb1-98da-c5b2da1ca931"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Noushinebadi/portfolio&quot;,
+    &quot;accountId&quot;: &quot;290de914-98fc-4bb1-98da-c5b2da1ca931&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 1
 }</component>
@@ -40,23 +82,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Newtech/Documents/Private/noushinebadi.ir",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Newtech/Documents/Private/noushinebadi.ir&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Newtech\Documents\Private\noushinebadi.ir\project\bakery" />
       <recent name="C:\Users\Newtech\Documents\Private\noushinebadi.ir\assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -66,7 +110,7 @@
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-f27c65a3e318-JavaScript-WS-251.23774.424" />
+        <option value="bundled-js-predefined-d6986cc7102b-e03c56caf84a-JavaScript-WS-252.23892.411" />
       </set>
     </attachedChunks>
   </component>
@@ -95,7 +139,57 @@
       <workItem from="1753361117531" duration="3301000" />
       <workItem from="1753434080562" duration="2589000" />
       <workItem from="1753861564570" duration="4228000" />
-      <workItem from="1753949306333" duration="1456000" />
+      <workItem from="1753949306333" duration="2054000" />
+      <workItem from="1754287525850" duration="424000" />
+      <workItem from="1754643498290" duration="24000" />
+      <workItem from="1754643719098" duration="1781000" />
+      <workItem from="1754655852633" duration="5012000" />
+      <workItem from="1754720906831" duration="1837000" />
+      <workItem from="1754999158357" duration="2568000" />
+      <workItem from="1755068815550" duration="3202000" />
+      <workItem from="1755072055604" duration="3216000" />
+      <workItem from="1755075589025" duration="6235000" />
+      <workItem from="1755249518417" duration="5260000" />
+      <workItem from="1755261151016" duration="433000" />
+      <workItem from="1755261657849" duration="1297000" />
+      <workItem from="1755324599318" duration="1576000" />
+      <workItem from="1755331168009" duration="797000" />
+      <workItem from="1755335988939" duration="19000" />
+      <workItem from="1755336039405" duration="325000" />
+      <workItem from="1755336369373" duration="1387000" />
+      <workItem from="1755505893689" duration="724000" />
+      <workItem from="1755507547420" duration="36000" />
+      <workItem from="1755507585147" duration="49000" />
+      <workItem from="1755508276674" duration="31000" />
+      <workItem from="1755508309872" duration="333000" />
+      <workItem from="1755515975377" duration="961000" />
+      <workItem from="1755520032844" duration="32000" />
+      <workItem from="1755520066374" duration="1387000" />
+      <workItem from="1755524810575" duration="180000" />
+      <workItem from="1755524992923" duration="41000" />
+      <workItem from="1755583479314" duration="898000" />
+      <workItem from="1755587574814" duration="18000" />
+      <workItem from="1755587594472" duration="1539000" />
+      <workItem from="1755670612844" duration="893000" />
+      <workItem from="1755692019920" duration="882000" />
+      <workItem from="1755694710196" duration="16000" />
+      <workItem from="1755694728002" duration="69000" />
+      <workItem from="1755695162527" duration="22000" />
+      <workItem from="1755695186746" duration="452000" />
+      <workItem from="1755695645170" duration="58000" />
+      <workItem from="1755695704945" duration="44000" />
+      <workItem from="1755695750396" duration="1103000" />
+      <workItem from="1755697037421" duration="621000" />
+      <workItem from="1755697810590" duration="370000" />
+      <workItem from="1755698187047" duration="168000" />
+      <workItem from="1755698654618" duration="20000" />
+      <workItem from="1755698676783" duration="73000" />
+      <workItem from="1755757572962" duration="33000" />
+      <workItem from="1755757608649" duration="1462000" />
+      <workItem from="1755761336521" duration="4312000" />
+      <workItem from="1755767452566" duration="52000" />
+      <workItem from="1755767505720" duration="9370000" />
+      <workItem from="1755782559724" duration="1830000" />
     </task>
     <servers />
   </component>
