@@ -4,21 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="237e789a-9cdf-4a30-ab31-f70557993e3c" name="Changes" comment="last changes- 30.8">
+    <list default="true" id="237e789a-9cdf-4a30-ab31-f70557993e3c" name="Changes" comment="last changes- 2.9">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/about/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/alfa-romeo-agency/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/alfa-romeo-agency/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/bakery/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/bakery/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/development/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/development/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/freelance/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/freelance/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/goldun/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/goldun/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/leave-management/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/leave-management/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/ncy/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/ncy/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/office-banner-design/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/office-banner-design/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/social-media/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/social-media/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/ui-challenge/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/ui-challenge/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/projects/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/projects/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/main-rXAcXlNz.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/main-rXAcXlNz.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main-rXAcXlNz.js" beforeDir="false" afterPath="$PROJECT_DIR$/main-rXAcXlNz.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +171,8 @@
       <workItem from="1756728831963" duration="82000" />
       <workItem from="1756795042482" duration="368000" />
       <workItem from="1756796575060" duration="2809000" />
-      <workItem from="1756816598586" duration="840000" />
+      <workItem from="1756816598586" duration="903000" />
+      <workItem from="1756907101784" duration="239000" />
     </task>
     <task id="LOCAL-00001" summary="last changes-21.8">
       <option name="closed" value="true" />
@@ -255,7 +246,15 @@
       <option name="project" value="LOCAL" />
       <updated>1756795399069</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="last changes- 2.9">
+      <option name="closed" value="true" />
+      <created>1756817488105</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1756817488105</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -268,6 +267,7 @@
     <MESSAGE value="last changes-28.8" />
     <MESSAGE value="last change-29.8" />
     <MESSAGE value="last changes- 30.8" />
-    <option name="LAST_COMMIT_MESSAGE" value="last changes- 30.8" />
+    <MESSAGE value="last changes- 2.9" />
+    <option name="LAST_COMMIT_MESSAGE" value="last changes- 2.9" />
   </component>
 </project>

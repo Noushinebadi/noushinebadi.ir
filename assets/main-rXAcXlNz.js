@@ -667,7 +667,7 @@ function Ge() {
 Ze.forEach(t => {
     t.addEventListener("click", Ge)
 });
-const Je = new Intl.DateTimeFormat("en-CA", {
+const Je = new Intl.DateTimeFormat("en-CY", {
     hour: "2-digit",
     minute: "numeric",
     second: "numeric",
