@@ -4,9 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="237e789a-9cdf-4a30-ab31-f70557993e3c" name="Changes" comment="new update- 9.10.2025">
-      <change afterPath="$PROJECT_DIR$/assets/p48.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/p49.avif" afterDir="false" />
+    <list default="true" id="237e789a-9cdf-4a30-ab31-f70557993e3c" name="Changes" comment="new update- 17.10.2025">
+      <change afterPath="$PROJECT_DIR$/assets/p50.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p50.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p51.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p51.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/social-media/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/social-media/index.html" afterDir="false" />
     </list>
@@ -178,7 +180,8 @@
       <workItem from="1757747685072" duration="4137000" />
       <workItem from="1759993998362" duration="683000" />
       <workItem from="1759994772826" duration="1338000" />
-      <workItem from="1760700571117" duration="651000" />
+      <workItem from="1760700571117" duration="962000" />
+      <workItem from="1762155940475" duration="607000" />
     </task>
     <task id="LOCAL-00001" summary="last changes-21.8">
       <option name="closed" value="true" />
@@ -292,7 +295,15 @@
       <option name="project" value="LOCAL" />
       <updated>1759996108281</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="new update- 17.10.2025">
+      <option name="closed" value="true" />
+      <created>1760701325281</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1760701325281</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,6 +319,7 @@
     <MESSAGE value="last changes- 2.9" />
     <MESSAGE value="fix date" />
     <MESSAGE value="new update- 9.10.2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="new update- 9.10.2025" />
+    <MESSAGE value="new update- 17.10.2025" />
+    <option name="LAST_COMMIT_MESSAGE" value="new update- 17.10.2025" />
   </component>
 </project>
