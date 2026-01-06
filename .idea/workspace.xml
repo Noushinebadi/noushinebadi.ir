@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="237e789a-9cdf-4a30-ab31-f70557993e3c" name="Changes" comment="new update- 03.11.2025">
+    <list default="true" id="237e789a-9cdf-4a30-ab31-f70557993e3c" name="Changes" comment="Initial website upload">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,6 +22,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="SYNC" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -178,7 +179,7 @@
       <workItem from="1759994772826" duration="1338000" />
       <workItem from="1760700571117" duration="962000" />
       <workItem from="1762155940475" duration="678000" />
-      <workItem from="1767705168550" duration="342000" />
+      <workItem from="1767705168550" duration="1163000" />
     </task>
     <task id="LOCAL-00001" summary="last changes-21.8">
       <option name="closed" value="true" />
@@ -308,7 +309,15 @@
       <option name="project" value="LOCAL" />
       <updated>1762156620285</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Initial website upload">
+      <option name="closed" value="true" />
+      <created>1767705739452</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1767705739452</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -337,7 +346,8 @@
     <MESSAGE value="new update- 9.10.2025" />
     <MESSAGE value="new update- 17.10.2025" />
     <MESSAGE value="new update- 03.11.2025" />
-    <option name="LAST_COMMIT_MESSAGE" value="new update- 03.11.2025" />
+    <MESSAGE value="Initial website upload" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial website upload" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
