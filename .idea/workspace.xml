@@ -4,7 +4,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="237e789a-9cdf-4a30-ab31-f70557993e3c" name="Changes" comment="Initial website upload" />
+    <list default="true" id="237e789a-9cdf-4a30-ab31-f70557993e3c" name="Changes" comment="Initial website upload">
+      <change afterPath="$PROJECT_DIR$/assets/d01.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/d01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/d02.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/d02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p01.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p02.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p03.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p04.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p05.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p06.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p07.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p08.avif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/p08.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/development/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/development/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/social-media/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/social-media/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -51,7 +75,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Newtech/Documents/Private/noushinebadi.ir",
+    "last_opened_file_path": "C:/Users/Newtech/Documents/Private/My Site/noushinebadi.ir",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -67,6 +91,7 @@
       <recent name="C:\Users\Newtech\Documents\Private\noushinebadi.ir\assets" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Newtech\Documents\Private\My Site\noushinebadi.ir\assets" />
       <recent name="C:\Users\Newtech\Documents\Private\noushinebadi.ir\assets" />
     </key>
   </component>
@@ -177,7 +202,8 @@
       <workItem from="1759994772826" duration="1338000" />
       <workItem from="1760700571117" duration="962000" />
       <workItem from="1762155940475" duration="678000" />
-      <workItem from="1767705168550" duration="1769000" />
+      <workItem from="1767705168550" duration="2333000" />
+      <workItem from="1768812939077" duration="2895000" />
     </task>
     <task id="LOCAL-00001" summary="last changes-21.8">
       <option name="closed" value="true" />
@@ -323,7 +349,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767706350252</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Initial website upload">
+      <option name="closed" value="true" />
+      <created>1767706983341</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1767706983341</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
