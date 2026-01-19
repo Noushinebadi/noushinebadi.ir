@@ -4,30 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="237e789a-9cdf-4a30-ab31-f70557993e3c" name="Changes" comment="Initial website upload">
-      <change afterPath="$PROJECT_DIR$/assets/d01.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/d01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/d02.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/d02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/p01.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/p01.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/p02.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/p02.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/p03.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/p03.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/p04.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/p04.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/p05.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/p05.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/p06.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/p06.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/p07.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/p07.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/p08.avif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/assets/p08.jpg" afterDir="false" />
+    <list default="true" id="237e789a-9cdf-4a30-ab31-f70557993e3c" name="Changes" comment="last update-19-01-2026">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/project/development/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/development/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project/social-media/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/project/social-media/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -203,7 +182,7 @@
       <workItem from="1760700571117" duration="962000" />
       <workItem from="1762155940475" duration="678000" />
       <workItem from="1767705168550" duration="2333000" />
-      <workItem from="1768812939077" duration="2895000" />
+      <workItem from="1768812939077" duration="3961000" />
     </task>
     <task id="LOCAL-00001" summary="last changes-21.8">
       <option name="closed" value="true" />
@@ -357,7 +336,15 @@
       <option name="project" value="LOCAL" />
       <updated>1767706983341</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="last update-19-01-2026">
+      <option name="closed" value="true" />
+      <created>1768815911992</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1768815911992</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -399,7 +386,8 @@
     <MESSAGE value="new update- 17.10.2025" />
     <MESSAGE value="new update- 03.11.2025" />
     <MESSAGE value="Initial website upload" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial website upload" />
+    <MESSAGE value="last update-19-01-2026" />
+    <option name="LAST_COMMIT_MESSAGE" value="last update-19-01-2026" />
   </component>
   <component name="github-copilot-workspace">
     <instructionFileLocations>
